@@ -43,7 +43,7 @@
    ```
 3. Клонируйте репозиторий:
    ```bash
-   git clone <repo-url> .
+   git clone https://github.com/repiska/artlift-bot .
    ```
 4. Настройте `.env` (см. раздел выше).
 5. Запустите контейнер:
